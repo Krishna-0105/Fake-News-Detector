@@ -21,7 +21,7 @@ lemmatizer = WordNetLemmatizer()
 # ==============================
 # NEWS API KEY
 # ==============================
-API_KEY = "0e101aa5ae884683a4859278d2ffdb46"
+API_KEY = "ENTER_YOUR_NEWSAPI_KEY_HERE"
 
 # ==============================
 # TEXT CLEANING
